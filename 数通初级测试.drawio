@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="29.6.3">
   <diagram name="第 1 页" id="wlVZk_bkfFDo9jE-XTfM">
-    <mxGraphModel dx="920" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,11 @@
         </mxCell>
         <mxCell id="rIy1AtN8FkbjUDBpNLNd-10" edge="1" parent="1" source="rIy1AtN8FkbjUDBpNLNd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.92;exitY=0.89;exitDx=0;exitDy=0;exitPerimeter=0;" target="rIy1AtN8FkbjUDBpNLNd-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vXeplIFSWKCc3kw2VImj-12" connectable="0" parent="rIy1AtN8FkbjUDBpNLNd-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="VLAN 30" vertex="1">
+          <mxGeometry relative="1" x="-0.7471" y="-13" as="geometry">
+            <mxPoint x="39" y="8" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rIy1AtN8FkbjUDBpNLNd-6" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.simultilayer_switch;" value="" vertex="1">
           <mxGeometry height="57.99999999999999" width="57.99999999999999" x="530" y="420" as="geometry" />
@@ -74,6 +79,18 @@
         </mxCell>
         <mxCell id="vXeplIFSWKCc3kw2VImj-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="连平社保局网关&lt;div&gt;172.10.1.254/24&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="110" x="600" y="434" as="geometry" />
+        </mxCell>
+        <mxCell id="vXeplIFSWKCc3kw2VImj-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.1.1" vertex="1">
+          <mxGeometry height="30" width="60" x="109" y="732" as="geometry" />
+        </mxCell>
+        <mxCell id="vXeplIFSWKCc3kw2VImj-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.1.2" vertex="1">
+          <mxGeometry height="30" width="60" x="384" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="vXeplIFSWKCc3kw2VImj-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VLAN 10&lt;div&gt;192.168.1.10&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="178" y="478" as="geometry" />
+        </mxCell>
+        <mxCell id="vXeplIFSWKCc3kw2VImj-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VLAN 20&lt;div&gt;192.168.1.20&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="430" y="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
